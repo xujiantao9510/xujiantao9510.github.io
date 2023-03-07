@@ -1,7 +1,3 @@
-# 码志
-
-我的个人博客：<https://mazhuang.org>，欢迎 Star 和 Fork。
-
 ## 概览
 
 <!-- vim-markdown-toc GFM -->
@@ -16,10 +12,6 @@
 <!-- vim-markdown-toc -->
 
 ## 效果预览
-
-**[在线预览 &rarr;](https://mazhuang.org)**
-
-![screenshot home](https://mazhuang.org/assets/images/screenshots/home.png)
 
 ## Fork 指南
 
