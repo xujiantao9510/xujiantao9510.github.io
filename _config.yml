@@ -5,9 +5,9 @@ baseurl:
 url: https://xujiantao9510.github.io/
 date_format: "ordinal"
 title: 个人主页
-subtitle: "QQ：963345284"
-description: "徐建涛的个人博客，QQ：963345284"
-keywords: 码志, Zhuang Ma, mzlogin, mazhuang, 闷骚的程序员
+subtitle: "WeChat：a963345284"
+description: "徐建涛的个人博客，WeChat：a963345284"
+keywords: 知识无止境，学习ing
 timezone: Asia/Fukushima
 encoding: "utf-8"
 # 页面左下角显示的年份
@@ -28,7 +28,7 @@ components:
     # 不蒜子访问统计
     busuanzi:
         enabled: false
-        start_date: 2020-05-03
+        start_date: 2023-01-03
     # My Popular Repositories
     side_bar_repo:
         enabled: true
@@ -40,7 +40,7 @@ components:
     # 修改图片请替换 assets/images/qrcode.jpg
     qrcode:
         enabled: true
-        image_alt: 闷骚的程序员
+        image_alt: 程序增进信息交流
     # 维基索引页使用哪种视图，支持 列表（list）/分类（cate）
     wiki:
         view: cate
@@ -51,18 +51,18 @@ components:
 compress_html:
   clippings: all
   comments: ["<!--", "-->"]
-# 代码高亮风格，支持的 theme 列表见 https://github.com/mzlogin/rouge-themes
+# 代码高亮风格，支持的 theme 列表见 https://github.com/
 highlight_theme: github
 
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: Zhuang Ma
-organization: 
-organization_url: 
-github_username: mzlogin
-location: Wuhan, China
-email: chumpma@gmail.com
+author: xujiantao
+organization: University of Aizu
+organization_url: https://u-aizu.ac.jp/en/
+github_username: xujiantao9510
+location: Aizu, Japan
+email: xujiantao9510@gmail.com
 
 # ---------------- #
 #    Navigation    #
