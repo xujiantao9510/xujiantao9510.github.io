@@ -1,20 +1,20 @@
 ---
 layout: page
 title: About
-description: 打码改变世界
-keywords: Zhuang Ma, 马壮
+description: 程序简化信息交流
+keywords: xujiantao, University of Aizu
 comments: true
 menu: 关于
 permalink: /about/
 ---
 
-我是马壮，码而生，码而立。
+My name is XuJiantao.
 
-仰慕「优雅编码的艺术」。
+Studing at Aizu University in Japan.
 
 坚信熟能生巧，努力改变人生。
 
-## 联系
+## Contact Me
 
 <ul>
 {% for website in site.data.social %}
@@ -22,8 +22,8 @@ permalink: /about/
 {% endfor %}
 {% if site.url contains 'mazhuang.org' %}
 <li>
-微信公众号：<br />
-<img style="height:192px;width:192px;border:1px solid lightgrey;" src="{{ site.url }}/assets/images/qrcode.jpg" alt="闷骚的程序员" />
+WeChat：<br />
+<img style="height:192px;width:192px;border:1px solid lightgrey;" src="{{ site.url }}/assets/images/qrcode.jpg" alt="a963345284" />
 </li>
 {% endif %}
 </ul>
