@@ -3,7 +3,6 @@ layout: page
 title: About
 description: 程序简化信息交流
 keywords: xujiantao, University of Aizu
-comments: true
 menu: 关于
 permalink: /about/
 ---
