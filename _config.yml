@@ -4,10 +4,10 @@
 baseurl:
 url: https://xujiantao9510.github.io/
 date_format: "ordinal"
-title: 个人主页
+title: HomePage
 subtitle: "WeChat：a963345284"
-description: "徐建涛的个人博客，WeChat：a963345284"
-keywords: 知识无止境，学习ing
+description: "Xu Jiantao's personal homepage，WeChat：a963345284"
+keywords: Knowledge is endless, learning ing.
 timezone: Asia/Fukushima
 encoding: "utf-8"
 # 页面左下角显示的年份
@@ -70,11 +70,11 @@ email: xujiantao9510@gmail.com
 navs:
   -
     href: /
-    label: 首页
+    label: First page
 
   -
     href: /categories/
-    label: 分类
+    label: categories
 
 #   -
 #     href: /archives/
@@ -86,15 +86,15 @@ navs:
 
   -
     href: /wiki/
-    label: 维基
+    label: wiki
 
   -
     href: /links/
-    label: 链接
+    label: links
 
   -
     href: /about/
-    label: 关于
+    label: about
 
 # ---------------- #
 #       RSS        #
@@ -134,39 +134,6 @@ collections:
 #      Comments    #
 # ---------------- #
 # support provider: disqus, gitment, gitalk, utterances, beaudar, giscus
-comments_provider: giscus
-# !!!重要!!! 请修改下面这些信息为你自己申请的
-# !!!Important!!! Please modify infos below to yours
-# disqus 配置参考：https://disqus.com
-disqus:
-    username: 
-# gitment 配置参考：https://imsun.net/posts/gitment-introduction/
-gitment:
-    owner: mzlogin
-    repo: blog-comments
-    oauth:
-        client_id: d2e1cbbd298958076462
-        client_secret: b42a4178e5fd4a7cf63189ef4b1453b05c375709
-# gitalk 配置参考：https://github.com/gitalk/gitalk#install
-gitalk:
-    owner: mzlogin
-    repo: blog-comments
-    clientID: d2e1cbbd298958076462
-    clientSecret: b42a4178e5fd4a7cf63189ef4b1453b05c375709
-# utterances 配置参考：https://utteranc.es/
-utterances:
-    repo: mzlogin/blog-comments
-# beaudar 配置参考：https://beaudar.lipk.org/
-beaudar:
-    repo: mzlogin/blog-comments
-# giscus 配置参考：https://giscus.app/zh-CN
-giscus:
-    repo: mzlogin/blog-comments
-    repo-id: MDEwOlJlcG9zaXRvcnk5MzEyNzkxNw==
-    category: Announcements
-    category-id: DIC_kwDOBY0E7c4CRtg9
-# 在使用其它评论组件时可点击显示 Disqus
-lazy_load_disqus : false
 
 # ---------------- #
 #      Search      #
