@@ -19,12 +19,14 @@ Believe that practice makes perfect, and strive to change your life.
 {% for website in site.data.social %}
 <li>{{website.sitename }}：<a href="{{ website.url }}" target="_blank">@{{ website.name }}</a></li>
 {% endfor %}
-{% if site.url contains 'mazhuang.org' %}
+<li>E-mail:  xujiantao9510@gmail.com</li>
+<li>wechat:  a963345284</li>
+<li>Phone:   86-176-3390-8831</li>
+<li>QQ:      963345284</li>
 <li>
 WeChat：<br/>
 <img style="height:192px;width:192px;border:1px solid lightgrey;" src="xujiantao9510/xujiantao9510.github.io/assets/images/qrcode.jpg" alt="a963345284" />
 </li>
-{% endif %}
 </ul>
 
 
