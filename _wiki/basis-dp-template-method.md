@@ -1,9 +1,9 @@
 ---
 layout: wiki
-title: 模板方法模式
+title: Template method pattern
 cate1: Basis
 cate2: 设计模式
-description: 模板方法模式
+description: Template method pattern
 keywords: Basis
 ---
 

@@ -1,9 +1,9 @@
 ---
 layout: wiki
-title: 更新 UI
+title: update UI
 cate1: Android
 cate2:
-description: 更新 UI
+description: update UI
 keywords: Android
 ---
 

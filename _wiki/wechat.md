@@ -1,10 +1,10 @@
 ---
 layout: wiki
-title: 微信
+title: wechat
 cate1: Tools
 cate2:
 description: 微信使用过程中的一些小知识点。
-keywords: 微信, wechat
+keywords: wechat
 type:
 link:
 ---

@@ -1,9 +1,9 @@
 ---
 layout: wiki
-title: 串口通信
+title: serial port communication
 cate1: Basis
 cate2: Hardware
-description: 串口通信
+description: serial port communication
 keywords: Basis
 ---
 

@@ -1,9 +1,9 @@
 ---
 layout: wiki
-title: 内部类
+title: inner class
 cate1: Java
 cate2:
-description: 内部类
+description: inner class
 keywords: Android
 ---
 

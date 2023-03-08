@@ -1,9 +1,9 @@
 ---
 layout: wiki
-title: 单例模式
+title: singleton pattern
 cate1: Basis
-cate2: 设计模式
-description: 单例模式
+cate2: design mode
+description: singleton pattern
 keywords: Basis
 ---
 

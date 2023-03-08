@@ -1,9 +1,9 @@
 ---
 layout: wiki
-title: 软键盘
+title: soft keyboard
 cate1: Android
 cate2:
-description: 软键盘
+description: soft keyboard
 keywords: Android
 ---
 

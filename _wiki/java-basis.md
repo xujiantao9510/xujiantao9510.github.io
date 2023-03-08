@@ -1,9 +1,9 @@
 ---
 layout: wiki
-title: 语言基础
+title: language foundation
 cate1: Java
 cate2:
-description: 语言基础
+description: language foundation
 keywords: Android
 ---
 

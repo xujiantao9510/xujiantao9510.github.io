@@ -1,10 +1,10 @@
 ---
 layout: wiki
-title: 中文文案排版指北（简体中文版）
+title: Chinese Copywriting (Simplified Chinese Version)
 cate1: Copywriting
 cate2:
-description: 中文文案排版指北（简体中文版）。
-keywords: 中文文案排版指北
+description: Chinese Copywriting (Simplified Chinese Version)
+keywords: Chinese Copywriting (Simplified Chinese Version)
 topmost: true
 ---
 

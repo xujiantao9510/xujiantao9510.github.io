@@ -1,9 +1,9 @@
 ---
 layout: wiki
-title: 开机自启动
+title: bootstrap
 cate1: Android
 cate2:
-description: 开机自启动
+description: bootstrap
 keywords: Android
 ---
 

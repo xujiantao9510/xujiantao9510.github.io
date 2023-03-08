@@ -1,9 +1,9 @@
 ---
 layout: wiki
-title: 消息机制
+title: message mechanism
 cate1: Android
 cate2:
-description: 消息机制
+description: message mechanism
 keywords: Android
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: wiki
-title: Kindle 屏保图片
+title: Kindle screensaver picture
 cate1: Devices
 cate2:
 description: Kindle Paperwhite 屏保图片

@@ -1,9 +1,9 @@
 ---
 layout: wiki
-title: 插件化
+title: Plug-in
 cate1: Android
 cate2:
-description: 插件化
+description: Plug-in
 keywords: Android
 ---
 

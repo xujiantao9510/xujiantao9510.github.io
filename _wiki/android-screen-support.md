@@ -1,9 +1,9 @@
 ---
 layout: wiki
-title: 屏幕适配
+title: Screen adaptation
 cate1: Android
 cate2:
-description: 屏幕适配
+description: Screen adaptation
 keywords: Android
 ---
 

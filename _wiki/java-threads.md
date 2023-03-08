@@ -1,9 +1,9 @@
 ---
 layout: wiki
-title: 多线程
+title: multithreading
 cate1: Java
 cate2:
-description: 多线程
+description: multithreading
 keywords: Android
 ---
 

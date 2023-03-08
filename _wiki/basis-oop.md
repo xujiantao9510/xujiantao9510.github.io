@@ -1,9 +1,9 @@
 ---
 layout: wiki
-title: 面向对象
+title: object-oriented
 cate1: Basis
-cate2: 面向对象
-description: 面向对象
+cate2: object-oriented
+description: object-oriented
 keywords: Basis
 ---
 

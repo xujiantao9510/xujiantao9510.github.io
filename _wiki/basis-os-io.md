@@ -1,9 +1,9 @@
 ---
 layout: wiki
-title: I/O 模型
+title: I/O model
 cate1: Basis
 cate2:
-description: I/O 模型
+description: I/O model
 keywords: Basis
 ---
 

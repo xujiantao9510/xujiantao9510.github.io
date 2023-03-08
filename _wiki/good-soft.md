@@ -1,10 +1,10 @@
 ---
 layout: wiki
-title: 善用佳软
+title: Xbeta
 cate1: Tools
 cate2: 
 description: 用正确的工具做对的事情
-keywords: 软件, 推荐
+keywords: Xbeta
 ---
 
 好的软件总是给人一种相见恨晚的感觉。

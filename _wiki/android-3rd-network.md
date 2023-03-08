@@ -1,9 +1,9 @@
 ---
 layout: wiki
-title: 网络请求
+title: network request
 cate1: Android
 cate2:
-description: 网络请求
+description: network request
 keywords: Android
 ---
 

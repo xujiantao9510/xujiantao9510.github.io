@@ -1,9 +1,9 @@
 ---
 layout: wiki
-title: 动画
+title: animation
 cate1: Android
 cate2:
-description: 动画
+description: animation
 keywords: Android
 ---
 

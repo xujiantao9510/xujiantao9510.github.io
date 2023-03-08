@@ -1,9 +1,9 @@
 ---
 layout: wiki
-title: 线程
+title: thread
 cate1: Basis
 cate2:
-description: 线程
+description: thread
 keywords: Basis
 ---
 

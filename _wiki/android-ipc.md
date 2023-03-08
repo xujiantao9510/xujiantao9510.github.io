@@ -1,9 +1,9 @@
 ---
 layout: wiki
-title: 进程间通信
+title: process to process communication
 cate1: Android
 cate2:
-description: 进程间通信
+description: process to process communication
 keywords: Android
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: wiki
-title: 构建和签名
+title: Build and sign
 cate1: Android
 cate2:
 description: 构建

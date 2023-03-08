@@ -1,9 +1,9 @@
 ---
 layout: wiki
-title: 线程安全与可重入
+title: Thread-safe and reentrant
 cate1: Basis
 cate2:
-description: 线程安全与可重入
+description: Thread-safe and reentrant
 keywords: Basis
 ---
 

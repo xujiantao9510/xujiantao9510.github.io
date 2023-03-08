@@ -1,9 +1,9 @@
 ---
 layout: wiki
-title: 设计模式
+title: design mode
 cate1: Basis
-cate2: 设计模式
-description: 设计模式
+cate2: design mode
+description: design mode
 keywords: Basis
 ---
 

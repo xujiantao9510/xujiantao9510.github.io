@@ -1,13 +1,13 @@
 ---
 layout: wiki
-title: 架构模式
+title: architectural pattern
 cate1: Android
 cate2: 
-description: 架构模式
+description: architectural pattern
 keywords: Android
 ---
 
-## 架构模式
+## architectural pattern
 
 ### MVC
 
