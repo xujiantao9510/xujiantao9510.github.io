@@ -2,7 +2,7 @@
 layout: wiki
 title: Template method pattern
 cate1: Basis
-cate2: 设计模式
+cate2: Design mode
 description: Template method pattern
 keywords: Basis
 ---
