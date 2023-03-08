@@ -1,10 +1,10 @@
 ---
 layout: wiki
-title: 企业微信
-cate1: 开放平台
+title: Enterprise WeChat
+cate1: Open platform
 cate2:
 description: 企业微信开发过程中的一些知识点记录。
-keywords: 企业微信
+keywords: Enterprise WeChat
 ---
 
 企业微信开发过程中的一些知识点记录。

@@ -1,21 +1,21 @@
 ---
 layout: page
-title: 捐助 / Donate
+title: Donate
 description: 随缘
 keywords: Donate
 menu: 赞助
 permalink: /donate/
 ---
 
-> 做了一些微小的事情，如果对你有帮助，可以考虑请我喝杯咖啡。
+> Hello
 > 
 > Did some tiny things, consider buying me a cup of coffee if it helps you.
 
 
-## 支付宝 / Alipay
+## Alipay
 
 <img style="width:256px;border:1px solid lightgrey;" src="{{ assets_base_url }}/assets/images/receipt-code-alipay.jpeg" alt="alipay receipt code" /> 
 
-## 微信 / Wechat
+## Wechat
 
 <img style="width:256px;border:1px solid lightgrey;" src="{{ assets_base_url }}/assets/images/receipt-code-wechat.jpeg" alt="wechat receipt code" />

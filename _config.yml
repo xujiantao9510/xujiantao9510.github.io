@@ -5,7 +5,7 @@ baseurl:
 url: https://xujiantao9510.github.io/
 date_format: "ordinal"
 title: My Home Pages
-subtitle: "Nice to meet you!"
+subtitle: "Hello! I'm Xu Jiantao,Nice to meet you!"
 description: "Xu Jiantao's personal homepage，WeChat：a963345284"
 keywords: Knowledge is endless, learning ing.
 timezone: Asia/Fukushima
@@ -57,7 +57,7 @@ highlight_theme: github
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: xujiantao
+author: Xu jiantao
 organization: University of Aizu
 organization_url: https://u-aizu.ac.jp/en/
 github_username: xujiantao9510

@@ -7,7 +7,7 @@ menu: 关于
 permalink: /about/
 ---
 
-My name is XuJiantao.
+My name is Xu Jiantao.
 
 Studing at Aizu University in Japan.
 
