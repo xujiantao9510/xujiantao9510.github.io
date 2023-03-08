@@ -17,18 +17,6 @@ mindmap: true
 * TOC
 {:toc}
 
-### 超链接
-
-```
-[靠谱-ing](https://mazhuang.org)
-
-<https://mazhuang.org>
-```
-
-[靠谱-ing](https://mazhuang.org)  
-
-<https://mazhuang.org>
-
 ### 列表
 
 ```

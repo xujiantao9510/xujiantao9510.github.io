@@ -20,9 +20,9 @@ telnet localhost 50900
 
 dubbo> invoke test1("hello")
 
-dubbo> invoke org.mazhuang.test1("hello")
+dubbo> invoke org.xxx.test1("hello")
 
-dubbo> invoke org.mazhuang.test2("hello", {"name":"mzlogin", "age": 18, "class":"org.mazhuang.Person"})
+dubbo> invoke org.xxx.test2("hello", {"name":"mzlogin", "age": 18, "class":"org.xxx.Person"})
 ```
 
 参考：<https://dubbo.apache.org/zh/docs/references/telnet/#invoke>
