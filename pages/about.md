@@ -11,7 +11,7 @@ My name is XuJiantao.
 
 Studing at Aizu University in Japan.
 
-坚信熟能生巧，努力改变人生。
+Believe that practice makes perfect, and strive to change your life.
 
 ## Contact Me
 

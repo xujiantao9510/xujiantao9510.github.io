@@ -1,9 +1,9 @@
 ---
 layout: wiki
-title: 体系结构
+title: architecture
 cate1: Android
 cate2: 
-description: 体系结构
+description: architecture
 keywords: Android
 ---
 

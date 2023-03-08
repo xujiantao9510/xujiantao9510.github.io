@@ -1,9 +1,9 @@
 ---
 layout: wiki
-title: 事件分发机制
+title: Event distribution mechanism
 cate1: Android
 cate2:
-description: 事件分发机制
+description: Event distribution mechanism
 keywords: Android
 ---
 

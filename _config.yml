@@ -4,8 +4,8 @@
 baseurl:
 url: https://xujiantao9510.github.io/
 date_format: "ordinal"
-title: HomePage
-subtitle: "WeChat：a963345284"
+title: My Home Pages
+subtitle: "Nice to meet you!"
 description: "Xu Jiantao's personal homepage，WeChat：a963345284"
 keywords: Knowledge is endless, learning ing.
 timezone: Asia/Fukushima
@@ -31,7 +31,7 @@ components:
         start_date: 2023-01-03
     # My Popular Repositories
     side_bar_repo:
-        enabled: true
+        enabled: false
         limit: 5
     # 文章字数统计
     word_count:

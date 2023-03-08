@@ -1,9 +1,9 @@
 ---
 layout: wiki
-title: Android 开发技术概述
+title: Android development technology overview
 cate1: Android
 cate2:
-description: Android 开发技术概述
+description: Android development technology overview
 keywords: Android
 ---
 

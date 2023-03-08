@@ -1,9 +1,9 @@
 ---
 layout: wiki
-title: ART 与 Dalvik 的区别
+title: The difference between ART and Dalvik
 cate1: Android
 cate2: 
-description: ART 与 Dalvik 的区别
+description: The difference between ART and Dalvik
 keywords: Android
 ---
 

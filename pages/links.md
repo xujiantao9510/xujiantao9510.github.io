@@ -18,7 +18,7 @@ permalink: /links/
 {% endfor %}
 </ul>
 
-> 友情链接
+> Friendly links
 
 <ul>
 {% for link in site.data.links %}
