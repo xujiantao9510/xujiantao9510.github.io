@@ -4,6 +4,7 @@ title: Education
 categories: Profile
 description: 我的教育经历
 keywords: Education, Profile
+topmost: true
 ---
 
 ## Education experience profile:
