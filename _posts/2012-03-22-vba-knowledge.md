@@ -2,7 +2,7 @@
 layout: post
 title: Education
 categories: Profile
-description: 使用 VBA 操作 Excel 表格的一些常用用法的笔记。
+description: 我的教育经历
 keywords: Education, Profile
 ---
 
