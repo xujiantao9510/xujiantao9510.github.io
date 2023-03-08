@@ -21,8 +21,8 @@ Believe that practice makes perfect, and strive to change your life.
 {% endfor %}
 {% if site.url contains 'mazhuang.org' %}
 <li>
-WeChat：<br />
-<img style="height:192px;width:192px;border:1px solid lightgrey;" src="{{ site.url }}/assets/images/qrcode.jpg" alt="a963345284" />
+WeChat：<br/>
+<img style="height:192px;width:192px;border:1px solid lightgrey;" src="xujiantao9510/xujiantao9510.github.io/assets/images/qrcode.jpg" alt="a963345284" />
 </li>
 {% endif %}
 </ul>
