@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Individual resume
+title: My resume
 categories: Resume
 description: My educational experience
 keywords: Education, Profile, Resume
