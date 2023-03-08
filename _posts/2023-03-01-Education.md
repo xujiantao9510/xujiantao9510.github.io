@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Education
-categories: Profile
-description: 我的教育经历
-keywords: Education, Profile
+title: Individual resume
+categories: Resume
+description: My educational experience
+keywords: Education, Profile, Resume
 topmost: true
 ---
 
