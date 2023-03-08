@@ -7,10 +7,6 @@ keywords: Education, Profile, Resume
 topmost: true
 ---
 
-## Education experience profile:
-
-
-
 
 2016-09-01 ~ 2020-06-01: Zhongyuan University of Science and Technology, Bachelor    
 
