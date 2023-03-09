@@ -6,7 +6,6 @@
   url: https://bitlab.u-aizu.ac.jp/
   src: life
 
-
 - name: Google
   url: https://www.google.com/
   src: www
@@ -23,50 +22,50 @@
   url: https://docs.google.com/presentation/u/0/
   src: www
 
-  - name: GoogleDrive
+- name: GoogleDrive
   url: https://drive.google.com/drive/my-drive
   src: www
 
-  - name: GoogleBlogger
+- name: GoogleBlogger
   url: https://www.blogger.com/dashboard/reading
   src: www
 
-  - name: ChatGPT
+- name: ChatGPT
   url: https://chat.openai.com/chat
   src: www
 
-  - name: aliyundrive
+- name: aliyundrive
   url: https://www.aliyundrive.com/
   src: www
 
-  - name: Gmail
+- name: Gmail
   url: https://mail.google.com/
   src: www
 
-  - name: bilibili
+- name: bilibili
   url: https://www.bilibili.com/
   src: www
 
-  - name: youtube
+- name: youtube
   url: https://www.youtube.com/
   src: www
 
-  - name: Dingtalkdocs
+- name: Dingtalkdocs
   url: https://docs.dingtalk.com/
   src: www
 
-  - name: Googletranslate
+- name: Googletranslate
   url: https://translate.google.com
   src: www  
 
-  - name: Deepl
+- name: Deepl
   url: https://www.deepl.com/
   src: www
 
-  - name: overleaf
+- name: overleaf
   url: https://www.overleaf.com/
   src: www  
 
-  - name: Googlescholar
+- name: Googlescholar
   url: https://scholar.google.com/
   src: www  
