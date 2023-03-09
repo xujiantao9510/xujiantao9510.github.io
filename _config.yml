@@ -73,7 +73,7 @@ navs:
     label: First page
 
   -
-    href: /Categories/
+    href: /categories/
     label: Categories
 
 #   -
@@ -85,15 +85,15 @@ navs:
 #     label: 开源
 
   -
-    href: /Wiki/
+    href: /wiki/
     label: Wiki
 
   -
-    href: /Links/
+    href: /links/
     label: Links
 
   -
-    href: /About/
+    href: /about/
     label: About
 
 # ---------------- #
