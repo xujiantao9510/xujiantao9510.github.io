@@ -16,7 +16,7 @@ Believe that practice makes perfect, and strive to change your life.
 ## Contact Me
 
 <ul>
-<li>E-mail:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;xujiantao9510@gmail.com</li>
+<li>E-mail:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto: xujiantao9510@gmail.com"> xujiantao9510@gmail.com</a></li>
 <li>WeChat:&nbsp;&nbsp;a963345284</li>
 <li>Tel:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;86-176-3390-8831</li>
 <li>QQ:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;963345284</li>
