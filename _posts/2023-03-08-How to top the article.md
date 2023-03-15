@@ -6,5 +6,4 @@ description: topmost
 keywords: Topmost
 ---
 
-在 Markdown 文件头部的元信息里指定 topmost: true
-rank: 5   是指定md文件在首页展示的次序5。
+Specify Topmost: true in the meta information of the Markdown file header.
