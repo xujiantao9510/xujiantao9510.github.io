@@ -7,4 +7,4 @@ keywords: Research,field
 topmost: true
 ---
 
-My research plan is to use different machine learning algorithms for disease detection of arrhythmia data sets. My supervisor is <a href="https://u-aizu.ac.jp/research/faculty/detail?cd=90060" target="_blank">Professor Chenwenxi</a>,Students who are interested are welcome to write to me for discussion.
+During Master, my research field is to use different machine learning algorithms for Arrhythmia detection . My supervisor is <a href="https://u-aizu.ac.jp/research/faculty/detail?cd=90060" target="_blank">Professor Chenwenxi</a>,Friends who are interested are welcome to write to me for discussion.
