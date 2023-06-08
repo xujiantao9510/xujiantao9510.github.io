@@ -1,6 +1,6 @@
 ---
 layout: post
-title: CV_EN
+title: CV_Chinese
 categories: CV
 description: My educational experience
 keywords: Education, Profile, CV
