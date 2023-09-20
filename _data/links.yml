@@ -6,6 +6,10 @@
   url: https://bitlab.u-aizu.ac.jp/
   src: life
 
+- name: SU-Lab
+  url: https://sulab-sever.u-aizu.ac.jp/
+  src: life
+
 - name: Google
   url: https://www.google.com/
   src: www
