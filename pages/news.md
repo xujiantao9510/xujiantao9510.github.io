@@ -14,8 +14,8 @@ permalink: /news/
 
 ## Images1
 
-<img style="width:256px;border:1px solid lightgrey;" src="{{ assets_base_url }}/assets/images/receipt-code-alipay.jpeg" alt="alipay receipt code" /> 
+<img style="width:256px;border:1px solid lightgrey;" src="xujiantao9510/xujiantao9510.github.io/images/2023graduate.jpg" alt="2023graduate" /> 
 
 ## Images2
 
-<img style="width:256px;border:1px solid lightgrey;" src="{{ assets_base_url }}/assets/images/receipt-code-wechat.jpeg" alt="wechat receipt code" />
+<img style="width:256px;border:1px solid lightgrey;" src="xujiantao9510/xujiantao9510.github.io/images/BIEmember.JPG" alt="BIEmember" />
