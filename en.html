@@ -29,6 +29,8 @@
             background-color: #333;
             overflow: hidden;
             text-align: center;
+            width: 100%;
+            z-index: 1000;
         }
         nav a {
             display: inline-block;
@@ -36,12 +38,13 @@
             text-align: center;
             padding: 14px 20px;
             text-decoration: none;
-            font-size: 18px; /* Default font size */
+            font-size: 18px;
         }
         nav a:hover {
             background-color: #ddd;
             color: black;
         }
+
         .content-section {
             background-color: white;
             padding: 20px;
@@ -75,15 +78,15 @@
         /* Responsive design */
         @media (max-width: 768px) {
             nav a {
-                padding: 10px 5px; /* Adjust padding */
-                font-size: 16px; /* Adjust font size */
+                padding: 10px 5px;
+                font-size: 16px;
             }
         }
 
         @media (max-width: 480px) {
             nav a {
-                padding: 8px 3px; /* Further adjust padding */
-                font-size: 14px; /* Further adjust font size for small screens */
+                padding: 8px 3px;
+                font-size: 14px;
             }
 
             .content-section {
@@ -97,14 +100,14 @@
     <header>
         <h1>Jiantao Xu's Personal Website</h1>
     </header>
-    <nav>
+    <nav id="navbar">
         <a href="#education">Education</a>
         <a href="#experience">Work Experience</a>
         <a href="#skills">Skills</a>
         <a href="#research">Research Interests</a>
         <a href="#honors">Certifications</a>
         <a href="#contact">Contact</a>
-        <a href="index.html">中文</a> <!-- Link back to Chinese version -->
+        <a href="index.html">中文</a>
     </nav>
 
     <div class="container">
@@ -168,5 +171,30 @@
     <footer>
         <p>© 2024 Jiantao Xu. All Rights Reserved.</p>
     </footer>
+
+    <script>
+        // JavaScript to make the navbar fixed after scrolling past it
+        window.onscroll = function() {fixNavbar()};
+
+        var navbar = document.getElementById("navbar");
+        var sticky = navbar.offsetTop;
+
+        function fixNavbar() {
+            if (window.pageYOffset >= sticky) {
+                navbar.classList.add("sticky");
+            } else {
+                navbar.classList.remove("sticky");
+            }
+        }
+    </script>
+    <style>
+        /* Add this sticky class when navbar becomes fixed */
+        .sticky {
+            position: fixed;
+            top: 0;
+            width: 100%;
+            z-index: 1000;
+        }
+    </style>
 </body>
 </html>
