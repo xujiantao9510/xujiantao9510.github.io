@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Xu Jiantao's Personal Website</title>
+    <title>Jiantao Xu's Resume</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -15,27 +15,28 @@
         .container {
             max-width: 1000px;
             margin: 0 auto;
-            padding: 0 20px; /* Match the padding with the navigation bar */
+            padding: 0 20px;
             padding-bottom: 60px;
         }
         header {
             background-color: #4CAF50;
             color: white;
-            padding: 15px 455px; /* 设置标题左右内边距，使其与 .container 对齐 */
+            padding: 15px;
+            text-align: center;
         }
 
         nav {
             background-color: #333;
             overflow: hidden;
-            padding: 14px 440px; /* Set padding to match the container */
+            text-align: center;
         }
         nav a {
-            float: left;
-            display: block;
+            display: inline-block;
             color: white;
             text-align: center;
             padding: 14px 20px;
             text-decoration: none;
+            font-size: 18px; /* Default font size */
         }
         nav a:hover {
             background-color: #ddd;
@@ -66,47 +67,67 @@
             color: white;
             text-align: center;
             padding: 10px 0;
-            position: fixed;
+            position: relative;
             width: 100%;
             bottom: 0;
+        }
+
+        /* Responsive design */
+        @media (max-width: 768px) {
+            nav a {
+                padding: 10px 5px; /* Adjust padding */
+                font-size: 16px; /* Adjust font size */
+            }
+        }
+
+        @media (max-width: 480px) {
+            nav a {
+                padding: 8px 3px; /* Further adjust padding */
+                font-size: 14px; /* Further adjust font size for small screens */
+            }
+
+            .content-section {
+                padding: 15px;
+                margin: 10px 0;
+            }
         }
     </style>
 </head>
 <body>
     <header>
-        <h1>Xu Jiantao's Personal Website</h1>
+        <h1>Jiantao Xu's Personal Website</h1>
     </header>
     <nav>
         <a href="#education">Education</a>
         <a href="#experience">Work Experience</a>
         <a href="#skills">Skills</a>
-        <a href="#research">Research Areas</a>
-        <a href="#honors">Honors & Awards</a>
+        <a href="#research">Research Interests</a>
+        <a href="#honors">Awards & Honors</a>
         <a href="#contact">Contact</a>
-        <a href="index.html">中文</a>
+        <a href="index.html">中文</a> <!-- Link back to Chinese version -->
     </nav>
 
     <div class="container">
         <div class="content-section" id="education">
             <h2>Education</h2>
-            <p><strong>Zhengzhou University</strong> (2017 - 2021)<br> Computer Science and Technology | Bachelor's Degree</p>
-            <p><strong>University of Aizu</strong> (2021.10 - 2023.10)<br> Computer Information Systems | Master's Degree</p>
-            <p><strong>University of Aizu</strong> (2023.10 ~ )<br> Computer Information Systems | PhD Candidate</p>
+            <p><strong>Zhengzhou University</strong> (2017 - 2021)<br> Computer Science and Technology</p>
+            <p><strong>University of Aizu</strong> (October 2021 - October 2023)<br> Computer Information Systems</p>
+            <p><strong>University of Aizu</strong> (October 2023 ~ )<br> Computer Information Systems</p>
         </div>
 
         <div class="content-section" id="experience">
             <h2>Work Experience</h2>
-            <p><strong>Shanghai Pacific Insurance Data Center</strong> (2021.04 - 2022.08)<br>Position: Operations Engineer</p>
+            <p><strong>Pacific Insurance Data Center, Shanghai</strong> (April 2021 - August 2022)<br>Position: Operations Engineer</p>
             <ul>
-                <li>Troubleshooting company server issues</li>
-                <li>Installing and maintaining data transmission systems</li>
-                <li>Regularly upgrading company software systems</li>
-                <li>Assisting in resolving other company faults</li>
+                <li>Troubleshooting server issues online</li>
+                <li>Maintaining data transmission systems</li>
+                <li>Regularly updating company system software</li>
+                <li>Assisting in handling other company issues</li>
             </ul>
-            <p><strong>EyesJapan</strong> (2023.10 ~ )<br>Position: Part-time</p>
+            <p><strong>EyesJapan</strong> (October 2023 ~ )<br>Position: Part-time</p>
             <ul>
                 <li>Web development</li>
-                <li>Front-end development</li>
+                <li>Frontend development</li>
                 <li>Database design</li>
                 <li>Other tasks</li>
             </ul>
@@ -116,36 +137,36 @@
             <h2>Skills</h2>
             <ul>
                 <li>Computer Networks</li>
-                <li>Network Security, IoT</li>
+                <li>Network Security, Internet of Things (IoT)</li>
                 <li>HTML, Java, Python</li>
-                <li>MySQL Database and Linux Server</li>
+                <li>MySQL Databases and Linux Servers</li>
             </ul>
         </div>
 
         <div class="content-section" id="research">
-            <h2>Research Areas</h2>
-            <p>Location Privacy Protection, Mobile Crowd Sensing</p>
+            <h2>Research Interests</h2>
+            <p>Location Privacy Protection, Mobile Crowdsensing</p>
         </div>
 
         <div class="content-section" id="honors">
-            <h2>Honors & Awards</h2>
+            <h2>Awards & Honors</h2>
             <ul>
-                <li>CET-4 Certificate</li>
+                <li>CET-4 (College English Test, Band 4) Certificate</li>
                 <li>Chinese Driver's License</li>
-                <li>Japanese Driver's License (Pending)</li>
+                <li>Japanese Driver's License (to be obtained)</li>
             </ul>
         </div>
 
         <div class="content-section" id="contact">
             <h2>Contact</h2>
-            <p><strong>Name:</strong> Xu Jiantao</p>
+            <p><strong>Name:</strong> Jiantao Xu</p>
             <p><strong>Email:</strong> xujiantao9510@gmail.com</p>
             <p><strong>Personal Website:</strong> <a href="https://xujiantao9510.github.io/">https://xujiantao9510.github.io/</a></p>
         </div>
     </div>
 
     <footer>
-        <p>© 2024 Xu Jiantao. All Rights Reserved.</p>
+        <p>© 2024 Jiantao Xu. All Rights Reserved.</p>
     </footer>
 </body>
 </html>
