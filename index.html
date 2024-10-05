@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>徐建涛的主页</title>
+    <title>徐建涛的个人简历</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -15,23 +15,23 @@
         .container {
             max-width: 1000px;
             margin: 0 auto;
-            padding: 0 20px; /* 设置与导航栏一致的左右内边距 */
+            padding: 0 20px;
             padding-bottom: 60px;
         }
         header {
             background-color: #4CAF50;
             color: white;
-            padding: 15px 455px; /* 设置标题左右内边距，使其与 .container 对齐 */
+            padding: 15px;
+            text-align: center;
         }
 
         nav {
             background-color: #333;
             overflow: hidden;
-            padding: 14px 440px; /* 设置导航栏左右内边距，使其与 .container 对齐 */
+            text-align: center;
         }
         nav a {
-            float: left;
-            display: block;
+            display: inline-block;
             color: white;
             text-align: center;
             padding: 14px 20px;
@@ -66,9 +66,28 @@
             color: white;
             text-align: center;
             padding: 10px 0;
-            position: fixed;
+            position: relative;
             width: 100%;
             bottom: 0;
+        }
+        /* 响应式设计 */
+        @media (max-width: 768px) {
+            header, nav, .container {
+                padding: 10px;
+            }
+            nav a {
+                display: block;
+                padding: 10px 0;
+            }
+            nav {
+                padding: 0;
+            }
+        }
+        @media (max-width: 480px) {
+            .content-section {
+                padding: 15px;
+                margin: 10px 0;
+            }
         }
     </style>
 </head>
@@ -89,9 +108,9 @@
     <div class="container">
         <div class="content-section" id="education">
             <h2>教育背景</h2>
-            <p><strong>郑州大学</strong> (2017 - 2021)<br> 计算机科学与技术|学士学位</p>
-            <p><strong>会津大学</strong> (2021.10 - 2023.10)<br> 计算机信息系统｜硕士学位</p>
-            <p><strong>会津大学</strong> (2023.10 ~        )<br> 计算机信息系统｜在读博士</p>
+            <p><strong>郑州大学</strong> (2017 - 2021)<br> 计算机科学与技术</p>
+            <p><strong>会津大学</strong> (2021.10 - 2023.10)<br> 计算机信息系统</p>
+            <p><strong>会津大学</strong> (2023.10 ~ )<br> 计算机信息系统</p>
         </div>
 
         <div class="content-section" id="experience">
@@ -103,7 +122,7 @@
                 <li>定期对公司系统软件进行升级更新</li>
                 <li>协助处理其他公司故障</li>
             </ul>
-            <p><strong>EyesJapan</strong> (2023.10 ~  )<br>职位: 兼职</p>
+            <p><strong>EyesJapan</strong> (2023.10 ~ )<br>职位: 兼职</p>
             <ul>
                 <li>网页开发</li>
                 <li>前端开发</li>
